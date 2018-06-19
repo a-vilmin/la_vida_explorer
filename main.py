@@ -252,6 +252,4 @@ lay_out = layout([
 ], sizing_mode=sizing_mode)
 
 update()  # initial load of the data
-
-curdoc().add_root(lay_out)
 curdoc().title = "La Vida WAR Visualizer"
