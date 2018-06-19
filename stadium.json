@@ -1,0 +1,212 @@
+{
+  "ANA": {
+    "address": "2000 Gene Autry Way, Anaheim, CA. 92806",
+    "lat": 33.799572,
+    "lng": -117.889031,
+    "color": "#BA0021"
+  },
+  "ARI": {
+    "address": "P.O. Box 2095, Phoenix, AZ. 85001",
+    "lat": 33.452922,
+    "lng": -112.038669,
+    "color": "#A71930",
+    "code": "ARI"
+  },
+  "ATL": {
+    "address": "P.O. Box 4064, Atlanta, GA. 30302",
+    "lat": 33.74691,
+    "lng": -84.391239,
+    "color": "#CE1141",
+    "code": "ATL"
+  },
+  "BAL": {
+    "address": "333 W. Camden Street, Baltimore, MD. 21201",
+    "lat": 39.285243,
+    "lng": -76.620103,
+    "color": "#DF4601",
+    "code": "BAL"
+  },
+  "BOS": {
+    "address": "4 Yawkey Way, Boston, MA 02215",
+    "lat": 42.346613,
+    "lng": -71.098817,
+    "color": "#BD3039",
+    "code": "BOS"
+  },
+  "CHC": {
+    "address": "1060 Addison Street, Chicago, IL 60616",
+    "lat": 41.947201,
+    "lng": -87.656413,
+    "color": "#CC3433",
+    "code": "CHC"
+  },
+  "CHW": {
+    "address": "333 W. 35th Street, Chicago, IL 60616",
+    "lat": 41.830883,
+    "lng": -87.635083,
+    "color": "#000000",
+    "code": "CHW"
+  },
+  "CNR": {
+    "address": "100 Cinergy Field, Cincinnati, OH 45202",
+    "lat": 39.107183,
+    "lng": -84.507713,
+    "color": "#C6011F",
+    "code": "CNR"
+  },
+  "CLE": {
+    "address": "2401 Ontario Street, Cleveland, OH 44115",
+    "lat": 41.495149,
+    "lng": -81.68709,
+    "color": "#E31937",
+    "code": "CLE"
+    
+  },
+  "COL": {
+    "address": "Coors Field, 2001 Blake Street, Denver, CO 80205-2000",
+    "lat": 39.75698,
+    "lng": -104.965329,
+    "color": "#333366",
+    "code": "COL"
+  },
+  "DET": {
+    "address": "Comerica Park, 2100 Woodward Ave., Detroit, MI 48201",
+    "lat": 42.346354,
+    "lng": -83.059619,
+    "color": "#0C2C56",
+    "code": "DET"
+  },
+  "FLA": {
+    "address": "2269 NW 199th Street, Miami, FL 33056",
+    "lat": 25.954428,
+    "lng": -80.238164,
+    "color": "#FF6600",
+    "code": "FLA"
+  },
+  "HOU": {
+    "address": "P.O. Box 288, Houston, TX 77001-0288",
+    "lat": 29.76045,
+    "lng": -95.369784,
+    "color": "#EB6E1F",
+    "code": "HOU"
+  },
+  "KCR": {
+    "address": "P.O. Boz 419969, Kansas City, MO 64141",
+    "lat": 39.10222,
+    "lng": -94.583559,
+    "color": "#004687",
+    "code": "KCR"
+  },
+  "LAD": {
+    "address": "1000 Elysian Park Ave., Los Angeles, CA 90012",
+    "lat": 34.072437,
+    "lng": -118.246879,
+    "color": "#005A9C",
+    "code": "LAD"
+  },
+  "MIL": {
+    "address": "P.O. Box 3099, Milwaukee, WI 53201-3099",
+    "lat": 43.04205,
+    "lng": -87.905599,
+    "color": "#0A2351",
+    "code": "MIL"
+  },
+  "MIN": {
+    "address": "501 Chicago Ave. S., Minneapolis, MN 55415",
+    "lat": 44.974346,
+    "lng": -93.259616,
+    "color": "#002B5C",
+    "code": "MIN"
+  },
+  "WSN": {
+    "address": "1500 South Capitol Street SE, Washington, DC",
+    "lat": 38.87,
+    "lng": -77.01,
+    "color": "#AB0003",
+    "code": "WSN"
+  },
+  "NYM": {
+    "address": "Roosevelt Ave & 126th Street, New York, NY 11368",
+    "lat": 40.75535,
+    "lng": -73.843219,
+    "color": "#FF5910",
+    "code": "NYM"
+  },
+  "NYY": {
+    "address": "Yankee Stadium, E. 161 Street & River Ave., New York, NY 10451",
+    "lat": 40.819782,
+    "lng": -73.929939,
+    "color": "#003087",
+    "code": "NYY"
+  },
+  "OAK": {
+    "address": "Oakland Coliseum, 700 Coliseum Way, Oakland, Ca 94621-1918",
+    "lat": 37.74923,
+    "lng": -122.196487,
+    "color": "#003831",
+    "code": "OAK"
+  },
+  "PHI": {
+    "address": "P.O. Box 7575, Philadelphia, PA 19101",
+    "lat": 39.952313,
+    "lng": -75.162392,
+    "color": "#284898",
+    "code": "PHI"
+  },
+  "PIT": {
+    "address": "600 Stadium Circle, Pittsburgh, PA 15212",
+    "lat": 40.461503,
+    "lng": -80.008924,
+    "color": "#FDB827",
+    "code": "PIT"
+  },
+  "STL": {
+    "address": "250 Stadium Plaza, St. Louis, MO 63102",
+    "lat": 38.629683,
+    "lng": -90.188247,
+    "color": "#C41E3A",
+    "code": "STL"
+  },
+  "SDP": {
+    "address": "P.O. Box 2000, San Diego, CA 92112-2000",
+    "lat": 32.752148,
+    "lng": -117.143635,
+    "color": "#7F411C",
+    "code": "SDP"
+  },
+  "SFG": {
+    "address": "Pacific Bell Park, 24 Willie Mays Plaza, San Francisco, CA 94107",
+    "lat": 37.77987,
+    "lng": -122.389754,
+    "color": "#FD5A1E",
+    "code": "SFG"
+  },
+  "SEA": {
+    "address": "P.O. Box 41000, 411 First Ave. S., Seattle, WA 98104",
+    "lat": 47.60174,
+    "lng": -122.330829,
+    "color": "#005C5C",
+    "code": "SEA"
+  },
+  "TBD": {
+    "address": "1 Tropicana Drive, St. Petersburg, FL 33705",
+    "lat": 27.768487,
+    "lng": -82.648191,
+    "color": "#8FBCE6",
+    "code": "TBD"
+  },
+  "TEX": {
+    "address": "1000 Ballpark Way, Arlington, TX 76011",
+    "lat": 32.750156,
+    "lng": -97.081117,
+    "color": "#C0111F",
+    "code": "TEX"
+  },
+  "TOR": {
+    "address": "1 Blue Jay Way, Suite 3200, Toronto, ONT M5V 1J1",
+    "lat": 43.641653,
+    "lng": -79.3917,
+    "color": "#134A8E",
+    "code": "TOR"
+  }
+}
